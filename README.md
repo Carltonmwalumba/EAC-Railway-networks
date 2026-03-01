@@ -1,4 +1,4 @@
-The Engine of Integration: Visualizing East Africa’s Railway Revolution.
+# The Engine of Integration: Visualizing East Africa’s Railway Revolution.
 East Africa is currently witnessing one of the most ambitious infrastructure transformations in its history. From the bustling Port of Mombasa to the highlands of Addis Ababa and the plains of Tanzania, a new era of connectivity is being forged. This isn't just about laying steel tracks; it’s about redrawing the economic map of an entire continent.
 
 By shifting from the colonial-era "Iron Snake" to high-speed, standard-gauge technology, the region is effectively slashing transit times, lowering the cost of basic goods, and turning landlocked nations into global trade hubs.
