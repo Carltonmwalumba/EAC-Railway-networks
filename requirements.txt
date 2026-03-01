@@ -1,0 +1,7 @@
+osmnx
+geopandas
+pd
+folium
+plotly
+streamlit
+streamlit-folium
